@@ -1,0 +1,47 @@
+[
+ {
+  "address": "7AtiXMSH6R1jjBxrcYjehCkkSF7zvYWte63gwEDBcGHq",
+  "name": "NVIDIA 3060",
+  "usd_reward_per_hour": 0.04796
+ },
+ {
+  "address": "CA5pMpqkYFKtme7K31pNB1s62X2SdhEv1nN9RdxKCpuQ",
+  "name": "NVIDIA 3090",
+  "usd_reward_per_hour": 0.19195
+ },
+ {
+  "address": "9HnJacS25TnErsKMYJmKqWeCAMYuwY7gzhz9Eqhp5VE7",
+  "name": "NVIDIA 5080",
+  "usd_reward_per_hour": 0.19998
+ },
+ {
+  "address": "C8JnyH6qhid3EaovSwb8JTkwAGP5n6GGqkktrazuKDqC",
+  "name": "silent-ridge NVIDIA 4090",
+  "usd_reward_per_hour": 0.31999
+ },
+ {
+  "address": "An4tqwD3mTzRipAdVxqSNrTtGfiqRh9DSgUjZ86zNrDa",
+  "name": "zephyr-skyline NVIDIA 4090",
+  "usd_reward_per_hour": 0.385
+ },
+ {
+  "address": "97G9NnvBDQ2WpKu6fasoMsAKmfj63C9rhysJnkeWodAf",
+  "name": "NVIDIA 4090",
+  "usd_reward_per_hour": 0.39996
+ },
+ {
+  "address": "31P9d5ahEY9iSmZuXJ2xwJsbRztFK5AUCdkvgziUM3vn",
+  "name": "ember-drift NVIDIA 4090",
+  "usd_reward_per_hour": 0.40700000000000003
+ },
+ {
+  "address": "6Xt8hgVLLL2PSHC9NtJP8E8oTdA5ZJc95hZEnHcdqKqb",
+  "name": "NVIDIA 5090",
+  "usd_reward_per_hour": 0.49995000000000006
+ },
+ {
+  "address": "FNchga9tXmcQU1DXCWapysjMCgUioiY6vQAb38Ts612K",
+  "name": "NVIDIA 4090 SEV TEE",
+  "usd_reward_per_hour": 0.55
+ }
+]

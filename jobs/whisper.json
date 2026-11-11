@@ -1,0 +1,25 @@
+{
+  "version": "0.1",
+  "type": "container",
+  "meta": {
+    "trigger": "dashboard",
+    "system_requirements": {
+      "vram_total_mb": 5120
+    }
+  },
+  "ops": [
+    {
+      "type": "container/run",
+      "id": "Whisper",
+      "args": {
+        "cmd": [
+          "python",
+          "app.py"
+        ],
+        "gpu": true,
+        "image": "registry.hf.space/openai-whisper:latest",
+        "expose": 7860
+      }
+    }
+  ]
+}
